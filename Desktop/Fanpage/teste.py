@@ -11,3 +11,6 @@ e = num1 ** num2
 
 print("A soma é {}, \n -subtração {}, \n -mutiplicação {}, \n -divisão {}, \n -divisão de inteiro {}, \n -reto da divisão {}, \n -exponenciação {} "
       .format(s, sb, m, d, di, rd, e))
+
+print ("Numero 1: {}".format(num1))
+print ("Numero 2: {}".format(num2))
